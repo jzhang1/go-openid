@@ -1,6 +1,13 @@
 Go-OpenID
 =========
 
+Security
+--------
+
+This library is not maintained any more.
+It contains security issues (see issues for details).
+Please use up-to-date forks instead.
+
 About
 -----
 
